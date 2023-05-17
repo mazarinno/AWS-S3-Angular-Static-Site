@@ -1,4 +1,4 @@
-# AWS-S3-Angular-Static-Site
+# AWS S3 Angular Static Site
 
 This AWS S3 Angular Static Site was a project for SNHU CS470 built on top of forks from these two repositories:
 
